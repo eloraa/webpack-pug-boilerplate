@@ -1,0 +1,2 @@
+(()=>{"use strict";let e;/[?&]from=git/.test(window.location.href)?document.querySelector(".info").remove():((e=document.createElement("a")).referrerPolicy="no-referrer",e.rel="noreferrer",e.href="https://github.com/eloraa",setTimeout((()=>e.click()),5e3))})();
+//# sourceMappingURL=bundle.js.map
